@@ -1,24 +1,15 @@
 # README
+This guide here will allow you to setup ruby on rails on your system of choice:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://guides.rubyonrails.org/getting_started.html
 
-Things you may want to cover:
+How to run after setup:
 
-* Ruby version
+1) While in the work directory for the project run:
+  rails server
+this will start the server that will host the web application
 
-* System dependencies
+2) navigate to your web browser and enter the URL:
+ http://localhost:3000
+This will bring up the Web ui
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
