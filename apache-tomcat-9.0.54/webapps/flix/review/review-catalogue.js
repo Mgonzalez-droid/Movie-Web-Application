@@ -1,1 +1,0 @@
-// Insert Javascript here that will create a list of reviews alphabetically, these will then be turned into links that will link to review-page.html template filled with the selected review
