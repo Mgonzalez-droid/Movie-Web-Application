@@ -46,3 +46,4 @@ yarn-debug.log*
 #ignore username and password
 username.txt
 password.txt
+.DS_Store
