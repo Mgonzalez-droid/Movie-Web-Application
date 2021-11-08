@@ -8,3 +8,18 @@
 username.txt
 password.txt
 .DS_Store
+
+#ignore apache content not related to project
+apache-tomcat-9.0.54/bin/*
+apache-tomcat-9.0.54/conf/*
+apache-tomcat-9.0.54/lib/*
+apache-tomcat-9.0.54/logs/*
+apache-tomcat-9.0.54/temp/*
+apache-tomcat-9.0.54/work/*
+apache-tomcat-9.0.54/BUILDING.txt
+apache-tomcat-9.0.54/CONTRIBUTING.md
+apache-tomcat-9.0.54/LICENSE
+apache-tomcat-9.0.54/NOTICE
+apache-tomcat-9.0.54/README.md
+apache-tomcat-9.0.54/RELEASE-NOTES
+apache-tomcat-9.0.54/RUNNING.txt
