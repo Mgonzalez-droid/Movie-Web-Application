@@ -42,3 +42,52 @@
 08-Nov-2021 08:54:33.818 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/host-manager] has finished in [66] ms
 08-Nov-2021 08:54:33.824 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 08-Nov-2021 08:54:33.853 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1997] milliseconds
+08-Nov-2021 09:15:03.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.54
+08-Nov-2021 09:15:03.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2021 13:51:49 UTC
+08-Nov-2021 09:15:03.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.54.0
+08-Nov-2021 09:15:03.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+08-Nov-2021 09:15:03.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.16
+08-Nov-2021 09:15:03.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+08-Nov-2021 09:15:03.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/michel/Library/Java/JavaVirtualMachines/openjdk-14.0.2/Contents/Home
+08-Nov-2021 09:15:03.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           14.0.2+12-46
+08-Nov-2021 09:15:03.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Nov-2021 09:15:03.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54
+08-Nov-2021 09:15:03.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54
+08-Nov-2021 09:15:03.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Nov-2021 09:15:03.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Nov-2021 09:15:03.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Nov-2021 09:15:03.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Nov-2021 09:15:03.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Nov-2021 09:15:03.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/conf/logging.properties
+08-Nov-2021 09:15:03.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Nov-2021 09:15:03.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Nov-2021 09:15:03.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Nov-2021 09:15:03.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Nov-2021 09:15:03.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Nov-2021 09:15:03.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54
+08-Nov-2021 09:15:03.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54
+08-Nov-2021 09:15:03.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/temp
+08-Nov-2021 09:15:03.302 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/michel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+08-Nov-2021 09:15:03.779 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Nov-2021 09:15:03.831 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [914] milliseconds
+08-Nov-2021 09:15:03.887 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Nov-2021 09:15:03.888 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.54]
+08-Nov-2021 09:15:03.901 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/docs]
+08-Nov-2021 09:15:04.310 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/docs] has finished in [408] ms
+08-Nov-2021 09:15:04.310 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/flix]
+08-Nov-2021 09:15:04.398 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/flix] has finished in [88] ms
+08-Nov-2021 09:15:04.399 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/manager]
+08-Nov-2021 09:15:04.485 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/manager] has finished in [86] ms
+08-Nov-2021 09:15:04.485 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/examples]
+08-Nov-2021 09:15:05.028 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/examples] has finished in [543] ms
+08-Nov-2021 09:15:05.030 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/ROOT]
+08-Nov-2021 09:15:05.081 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/ROOT] has finished in [52] ms
+08-Nov-2021 09:15:05.081 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/host-manager]
+08-Nov-2021 09:15:05.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/michel/Desktop/School/Information and Database management/Group project/web application/flix/apache-tomcat-9.0.54/webapps/host-manager] has finished in [50] ms
+08-Nov-2021 09:15:05.138 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Nov-2021 09:15:05.160 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1328] milliseconds
+08-Nov-2021 09:15:39.334 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Nov-2021 09:15:39.335 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Nov-2021 09:15:39.350 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Nov-2021 09:15:39.392 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Nov-2021 09:15:39.400 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
